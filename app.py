@@ -5,7 +5,7 @@ import pickle
 
 ## Load Model
 
-model = pickle.load(open('Churn_model1.pkl', 'rb'))
+model = pickle.load(open('churn_model1.pkl', 'rb'))
 
 ## Pgae Title
 
